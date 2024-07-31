@@ -1,4 +1,9 @@
 # Welcome to FluidOS
-## a Debian-based GNU/Linux Distro
+## a Debian-based Linux Distro
+### which reshapes itself by use cases.
+#### This is why its called FluidOS!
 
-### More details soon.
+# Status:
+## FluidOS is still under development.
+### But, development of the first version is nearly done! 🎉
+
